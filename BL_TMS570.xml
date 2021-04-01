@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="emagii-ssh"		fetch="git@github.com:emagii"	/>
+  <remote name="emagii-https"		fetch="https://github.com/emagii"	/>
+
+  <project name="libftd2xx-x86_64"		revision="master"	remote="emagii-ssh"	path="Apps/libftd2xx-x86_64"	/>
+  <project name="ftdi-dtb"			revision="main"		remote="emagii-ssh"	path="Apps/ftdi-dtb"		/>
+  <project name="ielftool"			revision="main"		remote="emagii-ssh"	path="Apps/ielftool"		/>
+  <project name="minicom"			revision="master"	remote="emagii-ssh"	path="Apps/minicom"		/>
+  <project name="autotooler"			revision="master"	remote="emagii-ssh"	path="Apps/autotooler"		/>
+  <project name="GPB_Bootloader_SW_Code_II"	revision="master"	remote="emagii-ssh"	path="GPB_Bootloader_SW_Code_II"/>
+  <project name="HAL"				revision="master"	remote="emagii-ssh"	path="HAL"			/>
+  <project name="LIBCRC"			revision="master"	remote="emagii-ssh"	path="LIBCRC"			/>
+  <project name="LIBCRC_Delivery"		revision="master"	remote="emagii-ssh"	path="LIBCRC_Delivery"		/>
+  <project name="F021_API"			revision="master"	remote="emagii-ssh"	path="F021_API"			/>
+  <project name="GPB_Flashloader_SW_Code"	revision="master"	remote="emagii-ssh"	path="GPB_Flashloader_SW_Code"	/>
+  <project name="GPB_Bootloader_Bin"		revision="master"	remote="emagii-ssh"	path="GPB_Bootloader_Bin"	/>
+</manifest>
+

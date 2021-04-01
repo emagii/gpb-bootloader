@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="emagii-ssh"		fetch="ssh://git@github.com:emagii"	/>
+  <remote name="emagii-ssh"		fetch="ssh://git@github.com/emagii"	/>
   <remote name="emagii-https"		fetch="https://github.com/emagii"	/>
 
   <project name="libftd2xx-x86_64"		revision="master"	remote="emagii-ssh"	path="Apps/libftd2xx-x86_64"	/>
